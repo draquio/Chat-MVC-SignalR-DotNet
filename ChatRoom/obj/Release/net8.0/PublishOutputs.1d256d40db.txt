@@ -1,0 +1,10 @@
+E:\Net\ChatRoom\ChatRoom\out\ChatRoom.exe
+E:\Net\ChatRoom\ChatRoom\out\appsettings.Development.json
+E:\Net\ChatRoom\ChatRoom\out\appsettings.json
+E:\Net\ChatRoom\ChatRoom\out\libman.json
+E:\Net\ChatRoom\ChatRoom\out\ChatRoom.dll
+E:\Net\ChatRoom\ChatRoom\out\ChatRoom.deps.json
+E:\Net\ChatRoom\ChatRoom\out\ChatRoom.runtimeconfig.json
+E:\Net\ChatRoom\ChatRoom\out\ChatRoom.pdb
+E:\Net\ChatRoom\ChatRoom\out\Newtonsoft.Json.dll
+E:\Net\ChatRoom\ChatRoom\out\System.Net.WebSockets.WebSocketProtocol.dll
